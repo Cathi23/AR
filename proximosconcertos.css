@@ -11,8 +11,10 @@ nav {
     text-align: center;
     background-image: url('AR.png');
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: 70px, center;
     background-size:60px;
+    position: relative;
+    padding-left: 64px;
 }
 nav a {
     text-decoration: none;
