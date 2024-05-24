@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color:  #e07a00;
+    padding: 30px 0;
+    text-align: center;
+    background-image: url('AR.png');
+    background-repeat: no-repeat;
+    background-position: 70px, center;
+    background-size:60px;
+    position: relative;
+    padding-left: 64px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+}
+nav a:hover {
+    background-color:orange;
+}
+
+footer {
+    background-color: #e07a00;
+    padding: 20px 0;
+    text-align: center;
+}  
+
+footer p {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 5px;
+}
